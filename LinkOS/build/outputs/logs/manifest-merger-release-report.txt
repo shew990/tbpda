@@ -1,0 +1,439 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:1-207:12
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:1-207:12
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:1-207:12
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:1-207:12
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:1-207:12
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:1-207:12
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:1-207:12
+	package
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:7:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:8:5-74
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:8:22-71
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:9:5-86
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:9:22-83
+uses-permission#android.permission.INTERNET
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.CAMERA
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:12:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:13:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:14:5-69
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:14:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:15:2-76
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:15:19-73
+uses-feature#android.hardware.usb.host
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:17:2-83
+	android:required
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:17:57-81
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:17:16-56
+uses-feature#android.hardware.camera
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:19:5-60
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:19:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:20:5-70
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:20:19-67
+application
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:22:5-205:23
+activity#com.zebra.android.devdemo.LoadDevDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:26:9-31:20
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:29:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:28:13-45
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:27:13-65
+activity#com.zebra.android.devdemo.discovery.DiscoveryDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:32:9-37:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:35:13-43
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:37:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:34:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:33:13-77
+activity#com.zebra.android.devdemo.discovery.BluetoothDiscovery
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:38:9-43:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:41:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:43:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:40:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:39:13-82
+activity#com.zebra.android.devdemo.discovery.MulticastDiscoveryResultList
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:44:9-49:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:47:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:49:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:46:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:45:13-92
+activity#com.zebra.android.devdemo.discovery.DirectedBroadcastResultList
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:50:9-55:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:54:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:53:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:55:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:52:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:51:13-91
+activity#com.zebra.android.devdemo.discovery.DirectedBroadcastParameters
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:56:9-61:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:60:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:59:13-58
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:61:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:58:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:57:13-91
+activity#com.zebra.android.devdemo.discovery.SubnetSearchResultList
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:62:9-67:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:66:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:65:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:67:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:64:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:63:13-86
+activity#com.zebra.android.devdemo.discovery.SubnetSearchParameters
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:68:9-73:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:71:13-53
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:73:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:70:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:69:13-86
+activity#com.zebra.android.devdemo.discovery.LocalBroadcastDiscoveryResultList
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:74:9-79:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:78:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:77:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:79:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:76:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:75:13-97
+activity#com.zebra.android.devdemo.discovery.FindPrintersDiscoveryResultList
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:80:9-85:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:83:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:85:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:82:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:81:13-95
+activity#com.zebra.android.devdemo.discovery.MulticastDiscoveryParameters
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:86:9-91:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:90:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:89:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:91:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:88:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:87:13-92
+activity#com.zebra.android.devdemo.imageprint.ImagePrintDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:92:9-97:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:95:13-45
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:97:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:94:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:93:13-79
+activity#com.zebra.android.devdemo.magcard.MagCardDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:98:9-103:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:102:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:101:13-42
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:103:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:100:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:99:13-73
+activity#com.zebra.android.devdemo.status.PrintStatusDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:104:9-109:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:108:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:107:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:109:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:106:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:105:13-76
+activity#com.zebra.android.devdemo.smartcard.SmartCardDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:110:9-115:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:114:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:113:13-44
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:115:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:112:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:111:13-77
+activity#com.zebra.android.devdemo.sigcapture.SigCaptureDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:116:9-121:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:120:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:119:13-51
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:121:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:118:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:117:13-79
+activity#com.zebra.android.devdemo.sendfile.SendFileDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:122:9-127:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:126:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:125:13-43
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:127:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:124:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:123:13-75
+activity#com.zebra.android.devdemo.storedformat.StoredFormatScreen
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:128:9-133:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:132:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:131:13-47
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:133:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:130:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:129:13-85
+activity#com.zebra.android.devdemo.storedformat.StoredFormatDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:134:9-138:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:137:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:138:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:136:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:135:13-83
+activity#com.zebra.android.devdemo.storedformat.VariablesScreen
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:139:9-143:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:142:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:143:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:141:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:140:13-82
+activity#com.zebra.android.devdemo.connectivity.ConnectivityDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:144:9-149:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:148:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:147:13-46
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:149:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:146:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:145:13-83
+activity#com.zebra.android.devdemo.status.PrinterStatusScreen
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:150:9-155:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:154:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:153:13-44
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:155:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:152:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:151:13-80
+activity#com.zebra.android.devdemo.listformats.ListFormatsScreen
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:156:9-161:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:160:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:159:13-46
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:161:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:158:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:157:13-83
+activity#com.zebra.android.devdemo.listformats.ListFormatsDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:162:9-166:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:165:13-49
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:166:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:164:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:163:13-81
+activity#com.zebra.android.devdemo.statuschannel.StatusChannelDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:167:9-172:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:171:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:170:13-43
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:172:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:169:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:168:13-85
+activity#com.zebra.android.devdemo.statuschannel.StatusChannelScreen
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:173:9-178:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:177:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:176:13-48
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:178:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:175:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:174:13-87
+activity#com.zebra.android.devdemo.multichannel.MultiChannelDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:179:9-184:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:183:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:182:13-41
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:184:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:181:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:180:13-83
+activity#com.zebra.android.devdemo.multichannel.MultiChannelScreen
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:185:9-190:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:189:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:188:13-46
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:190:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:187:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:186:13-85
+activity#com.zebra.android.devdemo.connectionbuilder.ConnectionBuilderDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:191:9-196:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:195:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:194:13-52
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:196:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:193:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:192:13-93
+activity#com.zebra.android.devdemo.receipt.ReceiptDemo
+ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:197:9-202:55
+	android:screenOrientation
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:201:13-49
+	android:label
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:200:13-41
+	android:windowSoftInputMode
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:202:13-52
+	android:configChanges
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:199:13-63
+	android:name
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml:198:13-73
+uses-sdk
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+		ADDED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml
+		INJECTED from F:\DEVELOPMENT\WORKPACE\Project\SCG\project\jiacheng\app\LSPDA\LinkOS\src\main\AndroidManifest.xml

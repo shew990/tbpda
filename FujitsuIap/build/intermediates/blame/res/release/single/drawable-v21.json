@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\DEVELOPMENT\\WORKPACE\\Project\\SCG\\project\\jiacheng\\app\\LSPDA\\FujitsuIap\\build\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\yangyiqing\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\ecb16f10377353de68f0070bc7bc2919\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "F:\\DEVELOPMENT\\WORKPACE\\Project\\SCG\\project\\jiacheng\\app\\LSPDA\\FujitsuIap\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\yangyiqing\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b063ed4cf36ea6994b81a692e0706eb1\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\DEVELOPMENT\\WORKPACE\\Project\\SCG\\project\\jiacheng\\app\\LSPDA\\FujitsuIap\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\yangyiqing\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b063ed4cf36ea6994b81a692e0706eb1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "F:\\DEVELOPMENT\\WORKPACE\\Project\\SCG\\project\\jiacheng\\app\\LSPDA\\FujitsuIap\\build\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\yangyiqing\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\b063ed4cf36ea6994b81a692e0706eb1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
